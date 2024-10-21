@@ -1,0 +1,21 @@
+/* HealthInfo.css */
+.health-info-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.doctor-card {
+    border: 1px solid #ccc; /* Border around each doctor card */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Padding inside each card */
+    margin-bottom: 15px; /* Space between cards */
+}
+
+.doctor-card h3 {
+   margin-bottom: 5px; /* Space below doctor name */
+}

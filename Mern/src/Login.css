@@ -1,0 +1,53 @@
+.login-container {
+    max-width: 400px;
+    margin: 78px;
+    padding: 78px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}/* Common styles for navigation buttons */
+.nav-button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue background */
+    color: white; 
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; 
+}
+
+.nav-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+
+#submit{
+    background-color: #007bff;
+    width: 100%;
+    padding: 10px; 
+    border-radius: 5px; 
+    border: none; 
+    background-color: #007bff; /* Fully blue background */
+    color: white; 
+    cursor: pointer; 
+}
